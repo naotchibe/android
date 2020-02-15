@@ -1,1 +1,11 @@
 1 git init new_task
+второй клон
+
+2. git add Home_TASK.txt
+3. git commit -m "my first commit"
+4. git remote  add  origin  https://github.com/naothibe/android
+5. git push origin master
+6. git checkout -b develop 
+7. git checkout -b Alex
+8. git add Home_TASK.txt 
+   git commit -m "my first-2 commit"
